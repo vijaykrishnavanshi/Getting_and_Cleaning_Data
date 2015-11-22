@@ -2,12 +2,14 @@
 ###This code book summarizes the resulting data fields in tidy.txt.
 
 ##Identifiers
+
+
 1.subject - The ID of the test subject
 
 2.activity - The type of activity performed when the corresponding measurements were taken
 
-
 ##Activity Labels
+
 1.WALKING (value 1): subject was walking during the test
 
 2.WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
